@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+psycopg[binary]
+alembic
+pgvector
+pydantic-settings
+openai
+httpx
+rdkit
+chempy
+pyjwt
+bcrypt
