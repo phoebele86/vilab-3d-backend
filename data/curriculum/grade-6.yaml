@@ -1,0 +1,199 @@
+# Source: KHTN 6, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), table of contents.
+grade: 6
+chapters:
+  - number: 1
+    subject: general
+    title: { vi: "Mở đầu về Khoa học tự nhiên", en: "Introduction to natural science" }
+  - number: 2
+    subject: chemistry
+    title: { vi: "Chất quanh ta", en: "Substances around us" }
+  - number: 3
+    subject: chemistry
+    title: { vi: "Một số vật liệu, nguyên liệu, nhiên liệu, lương thực – thực phẩm thông dụng", en: "Common materials, raw materials, fuels and foods" }
+  - number: 4
+    subject: chemistry
+    title: { vi: "Hỗn hợp. Tách chất ra khỏi hỗn hợp", en: "Mixtures. Separating substances from mixtures" }
+  - number: 5
+    subject: biology
+    title: { vi: "Tế bào", en: "Cells" }
+  - number: 6
+    subject: biology
+    title: { vi: "Từ tế bào đến cơ thể", en: "From cells to organisms" }
+  - number: 7
+    subject: biology
+    title: { vi: "Đa dạng thế giới sống", en: "Diversity of the living world" }
+  - number: 8
+    subject: physics
+    title: { vi: "Lực trong đời sống", en: "Forces in everyday life" }
+  - number: 9
+    subject: physics
+    title: { vi: "Năng lượng", en: "Energy" }
+  - number: 10
+    subject: physics
+    title: { vi: "Trái Đất và bầu trời", en: "The Earth and the sky" }
+lessons:
+  - number: 1
+    chapter: 1
+    title: { vi: "Giới thiệu về Khoa học tự nhiên", en: "Introduction to natural science" }
+  - number: 2
+    chapter: 1
+    title: { vi: "An toàn trong phòng thực hành", en: "Safety in the laboratory" }
+  - number: 3
+    chapter: 1
+    title: { vi: "Sử dụng kính lúp", en: "Using a magnifying glass" }
+  - number: 4
+    chapter: 1
+    title: { vi: "Sử dụng kính hiển vi quang học", en: "Using a light microscope" }
+  - number: 5
+    chapter: 1
+    title: { vi: "Đo chiều dài", en: "Measuring length" }
+  - number: 6
+    chapter: 1
+    title: { vi: "Đo khối lượng", en: "Measuring mass" }
+  - number: 7
+    chapter: 1
+    title: { vi: "Đo thời gian", en: "Measuring time" }
+  - number: 8
+    chapter: 1
+    title: { vi: "Đo nhiệt độ", en: "Measuring temperature" }
+  - number: 9
+    chapter: 2
+    title: { vi: "Sự đa dạng của chất", en: "The diversity of substances" }
+  - number: 10
+    chapter: 2
+    title: { vi: "Các thể của chất và sự chuyển thể", en: "States of matter and changes of state" }
+  - number: 11
+    chapter: 2
+    title: { vi: "Oxygen. Không khí", en: "Oxygen. Air" }
+  - number: 12
+    chapter: 3
+    title: { vi: "Một số vật liệu", en: "Common materials" }
+  - number: 13
+    chapter: 3
+    title: { vi: "Một số nguyên liệu", en: "Common raw materials" }
+  - number: 14
+    chapter: 3
+    title: { vi: "Một số nhiên liệu", en: "Common fuels" }
+  - number: 15
+    chapter: 3
+    title: { vi: "Một số lương thực, thực phẩm", en: "Common staple foods and foodstuffs" }
+  - number: 16
+    chapter: 4
+    title: { vi: "Hỗn hợp các chất", en: "Mixtures of substances" }
+  - number: 17
+    chapter: 4
+    title: { vi: "Tách chất khỏi hỗn hợp", en: "Separating substances from a mixture" }
+  - number: 18
+    chapter: 5
+    title: { vi: "Tế bào – Đơn vị cơ bản của sự sống", en: "The cell – the basic unit of life" }
+  - number: 19
+    chapter: 5
+    title: { vi: "Cấu tạo và chức năng các thành phần của tế bào", en: "Structure and function of cell components" }
+  - number: 20
+    chapter: 5
+    title: { vi: "Sự lớn lên và sinh sản của tế bào", en: "Cell growth and division" }
+  - number: 21
+    chapter: 5
+    title: { vi: "Thực hành: Quan sát và phân biệt một số loại tế bào", en: "Practical: Observing and distinguishing types of cells" }
+  - number: 22
+    chapter: 6
+    title: { vi: "Cơ thể sinh vật", en: "Living organisms" }
+  - number: 23
+    chapter: 6
+    title: { vi: "Tổ chức cơ thể đa bào", en: "Organisation of multicellular organisms" }
+  - number: 24
+    chapter: 6
+    title: { vi: "Thực hành: Quan sát và mô tả cơ thể đơn bào, cơ thể đa bào", en: "Practical: Observing and describing unicellular and multicellular organisms" }
+  - number: 25
+    chapter: 7
+    title: { vi: "Hệ thống phân loại sinh vật", en: "Classification of living things" }
+  - number: 26
+    chapter: 7
+    title: { vi: "Khoá lưỡng phân", en: "Dichotomous keys" }
+  - number: 27
+    chapter: 7
+    title: { vi: "Vi khuẩn", en: "Bacteria" }
+  - number: 28
+    chapter: 7
+    title: { vi: "Thực hành: Làm sữa chua và quan sát vi khuẩn", en: "Practical: Making yoghurt and observing bacteria" }
+  - number: 29
+    chapter: 7
+    title: { vi: "Virus", en: "Viruses" }
+  - number: 30
+    chapter: 7
+    title: { vi: "Nguyên sinh vật", en: "Protists" }
+  - number: 31
+    chapter: 7
+    title: { vi: "Thực hành: Quan sát nguyên sinh vật", en: "Practical: Observing protists" }
+  - number: 32
+    chapter: 7
+    title: { vi: "Nấm", en: "Fungi" }
+  - number: 33
+    chapter: 7
+    title: { vi: "Thực hành: Quan sát các loại nấm", en: "Practical: Observing fungi" }
+  - number: 34
+    chapter: 7
+    title: { vi: "Thực vật", en: "Plants" }
+  - number: 35
+    chapter: 7
+    title: { vi: "Thực hành: Quan sát và phân biệt một số nhóm thực vật", en: "Practical: Observing and distinguishing plant groups" }
+  - number: 36
+    chapter: 7
+    title: { vi: "Động vật", en: "Animals" }
+  - number: 37
+    chapter: 7
+    title: { vi: "Thực hành: Quan sát và nhận biết một số nhóm động vật ngoài thiên nhiên", en: "Practical: Observing and identifying animal groups in the wild" }
+  - number: 38
+    chapter: 7
+    title: { vi: "Đa dạng sinh học", en: "Biodiversity" }
+  - number: 39
+    chapter: 7
+    title: { vi: "Tìm hiểu sinh vật ngoài thiên nhiên", en: "Exploring living things in nature" }
+  - number: 40
+    chapter: 8
+    title: { vi: "Lực là gì?", en: "What is a force?" }
+  - number: 41
+    chapter: 8
+    title: { vi: "Biểu diễn lực", en: "Representing forces" }
+  - number: 42
+    chapter: 8
+    title: { vi: "Biến dạng của lò xo", en: "Deformation of a spring" }
+  - number: 43
+    chapter: 8
+    title: { vi: "Trọng lượng, lực hấp dẫn", en: "Weight and gravitational force" }
+  - number: 44
+    chapter: 8
+    title: { vi: "Lực ma sát", en: "Friction" }
+  - number: 45
+    chapter: 8
+    title: { vi: "Lực cản của nước", en: "Water resistance" }
+  - number: 46
+    chapter: 9
+    title: { vi: "Năng lượng và sự truyền năng lượng", en: "Energy and energy transfer" }
+  - number: 47
+    chapter: 9
+    title: { vi: "Một số dạng năng lượng", en: "Forms of energy" }
+  - number: 48
+    chapter: 9
+    title: { vi: "Sự chuyển hoá năng lượng", en: "Energy transformation" }
+  - number: 49
+    chapter: 9
+    title: { vi: "Năng lượng hao phí", en: "Wasted energy" }
+  - number: 50
+    chapter: 9
+    title: { vi: "Năng lượng tái tạo", en: "Renewable energy" }
+  - number: 51
+    chapter: 9
+    title: { vi: "Tiết kiệm năng lượng", en: "Saving energy" }
+  - number: 52
+    chapter: 10
+    title: { vi: "Chuyển động nhìn thấy của Mặt Trời. Thiên thể", en: "Apparent motion of the Sun. Celestial bodies" }
+  - number: 53
+    chapter: 10
+    title: { vi: "Mặt Trăng", en: "The Moon" }
+  - number: 54
+    chapter: 10
+    title: { vi: "Hệ Mặt Trời", en: "The Solar System" }
+  - number: 55
+    chapter: 10
+    title: { vi: "Ngân Hà", en: "The Milky Way" }

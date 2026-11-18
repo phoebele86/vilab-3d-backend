@@ -1,0 +1,222 @@
+# Source: KHTN 8, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), table of contents.
+grade: 8
+chapters:
+  - number: 1
+    subject: chemistry
+    title: { vi: "Phản ứng hoá học", en: "Chemical reactions" }
+  - number: 2
+    subject: chemistry
+    title: { vi: "Một số hợp chất thông dụng", en: "Common compounds" }
+  - number: 3
+    subject: physics
+    title: { vi: "Khối lượng riêng và áp suất", en: "Density and pressure" }
+  - number: 4
+    subject: physics
+    title: { vi: "Tác dụng làm quay của lực", en: "Turning effect of forces" }
+  - number: 5
+    subject: physics
+    title: { vi: "Điện", en: "Electricity" }
+  - number: 6
+    subject: physics
+    title: { vi: "Nhiệt", en: "Heat" }
+  - number: 7
+    subject: biology
+    title: { vi: "Sinh học cơ thể người", en: "Human biology" }
+  - number: 8
+    subject: biology
+    title: { vi: "Sinh vật và môi trường", en: "Organisms and the environment" }
+lessons:
+  - number: 1
+    subject: general
+    title: { vi: "Sử dụng một số hoá chất, thiết bị cơ bản trong phòng thí nghiệm", en: "Using basic chemicals and laboratory equipment" }
+  - number: 2
+    chapter: 1
+    title: { vi: "Phản ứng hoá học", en: "Chemical reactions" }
+    models:
+      - key: reaction
+        kind: simulation
+        name: { vi: "Phản ứng hoá học ở cấp phân tử", en: "Chemical reactions at the molecular level" }
+        config: {"equations": ["H2 + O2 -> H2O", "CH4 + O2 -> CO2 + H2O", "N2 + H2 -> NH3", "H2 + Cl2 -> HCl"]}
+  - number: 3
+    chapter: 1
+    title: { vi: "Mol và tỉ khối chất khí", en: "The mole and relative density of gases" }
+  - number: 4
+    chapter: 1
+    title: { vi: "Dung dịch và nồng độ", en: "Solutions and concentration" }
+  - number: 5
+    chapter: 1
+    title: { vi: "Định luật bảo toàn khối lượng và phương trình hoá học", en: "Law of conservation of mass and chemical equations" }
+    models:
+      - key: reaction
+        kind: simulation
+        name: { vi: "Số nguyên tử hai vế phương trình", en: "Atom counts on both sides of an equation" }
+        config: {"equations": ["H2 + O2 -> H2O", "CO + O2 -> CO2", "H2O2 -> H2O + O2"], "showAtomCounter": true}
+  - number: 6
+    chapter: 1
+    title: { vi: "Tính theo phương trình hoá học", en: "Calculations from chemical equations" }
+  - number: 7
+    chapter: 1
+    title: { vi: "Tốc độ phản ứng và chất xúc tác", en: "Reaction rate and catalysts" }
+  - number: 8
+    chapter: 2
+    title: { vi: "Acid", en: "Acids" }
+  - number: 9
+    chapter: 2
+    title: { vi: "Base. Thang pH", en: "Bases. The pH scale" }
+  - number: 10
+    chapter: 2
+    title: { vi: "Oxide", en: "Oxides" }
+  - number: 11
+    chapter: 2
+    title: { vi: "Muối", en: "Salts" }
+  - number: 12
+    chapter: 2
+    title: { vi: "Phân bón hoá học", en: "Chemical fertilisers" }
+  - number: 13
+    chapter: 3
+    title: { vi: "Khối lượng riêng", en: "Density" }
+  - number: 14
+    chapter: 3
+    title: { vi: "Thực hành xác định khối lượng riêng", en: "Practical: Determining density" }
+  - number: 15
+    chapter: 3
+    title: { vi: "Áp suất trên một bề mặt", en: "Pressure on a surface" }
+  - number: 16
+    chapter: 3
+    title: { vi: "Áp suất chất lỏng. Áp suất khí quyển", en: "Liquid pressure. Atmospheric pressure" }
+  - number: 17
+    chapter: 3
+    title: { vi: "Lực đẩy Archimedes", en: "The buoyant force (Archimedes' principle)" }
+  - number: 18
+    chapter: 4
+    title: { vi: "Tác dụng làm quay của lực. Moment lực", en: "Turning effect of a force. Moment of a force" }
+  - number: 19
+    chapter: 4
+    title: { vi: "Đòn bẩy và ứng dụng", en: "Levers and their applications" }
+  - number: 20
+    chapter: 5
+    title: { vi: "Hiện tượng nhiễm điện do cọ xát", en: "Charging by friction" }
+  - number: 21
+    chapter: 5
+    title: { vi: "Dòng điện, nguồn điện", en: "Electric current and power sources" }
+  - number: 22
+    chapter: 5
+    title: { vi: "Mạch điện đơn giản", en: "Simple electric circuits" }
+  - number: 23
+    chapter: 5
+    title: { vi: "Tác dụng của dòng điện", en: "Effects of electric current" }
+  - number: 24
+    chapter: 5
+    title: { vi: "Cường độ dòng điện và hiệu điện thế", en: "Current and voltage" }
+  - number: 25
+    chapter: 5
+    title: { vi: "Thực hành đo cường độ dòng điện và hiệu điện thế", en: "Practical: Measuring current and voltage" }
+  - number: 26
+    chapter: 6
+    title: { vi: "Năng lượng nhiệt và nội năng", en: "Thermal energy and internal energy" }
+  - number: 27
+    chapter: 6
+    title: { vi: "Thực hành đo năng lượng nhiệt bằng joulemeter", en: "Practical: Measuring thermal energy with a joulemeter" }
+  - number: 28
+    chapter: 6
+    title: { vi: "Sự truyền nhiệt", en: "Heat transfer" }
+  - number: 29
+    chapter: 6
+    title: { vi: "Sự nở vì nhiệt", en: "Thermal expansion" }
+  - number: 30
+    chapter: 7
+    title: { vi: "Khái quát về cơ thể người", en: "Overview of the human body" }
+  - number: 31
+    chapter: 7
+    title: { vi: "Hệ vận động ở người", en: "The human musculoskeletal system" }
+  - number: 32
+    chapter: 7
+    title: { vi: "Dinh dưỡng và tiêu hoá ở người", en: "Human nutrition and digestion" }
+  - number: 33
+    chapter: 7
+    title: { vi: "Máu và hệ tuần hoàn của cơ thể người", en: "Blood and the human circulatory system" }
+    models:
+      - key: heart
+        kind: glb
+        name: { vi: "Cấu tạo tim người", en: "Structure of the human heart" }
+        path: biology/heart.glb
+        config: {"credit": "BodyParts3D, © The Database Center for Life Science licensed under CC Attribution 4.0 International"}
+        structures:
+          - { node: right-atrium, label: { vi: "Tâm nhĩ phải", en: "Right atrium" } }
+          - { node: left-atrium, label: { vi: "Tâm nhĩ trái", en: "Left atrium" } }
+          - { node: right-ventricle, label: { vi: "Tâm thất phải", en: "Right ventricle" } }
+          - { node: left-ventricle, label: { vi: "Tâm thất trái", en: "Left ventricle" } }
+          - { node: tricuspid-valve, label: { vi: "Van ba lá", en: "Tricuspid valve" } }
+          - { node: mitral-valve, label: { vi: "Van hai lá", en: "Mitral valve" } }
+          - { node: pulmonary-valve, label: { vi: "Van động mạch phổi", en: "Pulmonary valve" } }
+          - { node: aortic-valve, label: { vi: "Van động mạch chủ", en: "Aortic valve" } }
+          - { node: aorta, label: { vi: "Động mạch chủ", en: "Aorta" } }
+          - { node: pulmonary-trunk, label: { vi: "Thân động mạch phổi", en: "Pulmonary trunk" } }
+          - { node: left-pulmonary-artery, label: { vi: "Động mạch phổi trái", en: "Left pulmonary artery" } }
+          - { node: right-pulmonary-artery, label: { vi: "Động mạch phổi phải", en: "Right pulmonary artery" } }
+          - { node: pulmonary-veins, label: { vi: "Tĩnh mạch phổi", en: "Pulmonary veins" } }
+          - { node: superior-vena-cava, label: { vi: "Tĩnh mạch chủ trên", en: "Superior vena cava" } }
+          - { node: inferior-vena-cava, label: { vi: "Tĩnh mạch chủ dưới", en: "Inferior vena cava" } }
+          - { node: coronary-arteries, label: { vi: "Động mạch vành", en: "Coronary arteries" } }
+          - { node: cardiac-veins, label: { vi: "Tĩnh mạch vành", en: "Cardiac veins" } }
+  - number: 34
+    chapter: 7
+    title: { vi: "Hệ hô hấp ở người", en: "The human respiratory system" }
+    models:
+      - key: lungs
+        kind: glb
+        name: { vi: "Phổi và đường dẫn khí", en: "The lungs and airways" }
+        path: biology/lungs.glb
+        config: {"credit": "BodyParts3D, © The Database Center for Life Science licensed under CC Attribution 4.0 International"}
+        structures:
+          - { node: trachea, label: { vi: "Khí quản", en: "Trachea" } }
+          - { node: right-main-bronchus, label: { vi: "Phế quản chính phải", en: "Right main bronchus" } }
+          - { node: left-main-bronchus, label: { vi: "Phế quản chính trái", en: "Left main bronchus" } }
+          - { node: right-bronchial-tree, label: { vi: "Các nhánh phế quản phổi phải", en: "Right bronchial tree" } }
+          - { node: left-bronchial-tree, label: { vi: "Các nhánh phế quản phổi trái", en: "Left bronchial tree" } }
+          - { node: right-lung, label: { vi: "Phổi phải", en: "Right lung" } }
+          - { node: right-lung-upper-lobe, label: { vi: "Thùy trên phổi phải", en: "Right upper lobe" } }
+          - { node: right-lung-middle-lobe, label: { vi: "Thùy giữa phổi phải", en: "Right middle lobe" } }
+          - { node: right-lung-lower-lobe, label: { vi: "Thùy dưới phổi phải", en: "Right lower lobe" } }
+          - { node: left-lung, label: { vi: "Phổi trái", en: "Left lung" } }
+          - { node: left-lung-upper-lobe, label: { vi: "Thùy trên phổi trái", en: "Left upper lobe" } }
+          - { node: left-lung-lower-lobe, label: { vi: "Thùy dưới phổi trái", en: "Left lower lobe" } }
+  - number: 35
+    chapter: 7
+    title: { vi: "Hệ bài tiết ở người", en: "The human excretory system" }
+  - number: 36
+    chapter: 7
+    title: { vi: "Điều hoà môi trường trong của cơ thể người", en: "Regulating the internal environment of the human body" }
+  - number: 37
+    chapter: 7
+    title: { vi: "Hệ thần kinh và các giác quan ở người", en: "The human nervous system and sense organs" }
+  - number: 38
+    chapter: 7
+    title: { vi: "Hệ nội tiết ở người", en: "The human endocrine system" }
+  - number: 39
+    chapter: 7
+    title: { vi: "Da và điều hoà thân nhiệt ở người", en: "Skin and body temperature regulation" }
+  - number: 40
+    chapter: 7
+    title: { vi: "Sinh sản ở người", en: "Human reproduction" }
+  - number: 41
+    chapter: 8
+    title: { vi: "Môi trường và các nhân tố sinh thái", en: "Environment and ecological factors" }
+  - number: 42
+    chapter: 8
+    title: { vi: "Quần thể sinh vật", en: "Populations" }
+  - number: 43
+    chapter: 8
+    title: { vi: "Quần xã sinh vật", en: "Communities" }
+  - number: 44
+    chapter: 8
+    title: { vi: "Hệ sinh thái", en: "Ecosystems" }
+  - number: 45
+    chapter: 8
+    title: { vi: "Sinh quyển", en: "The biosphere" }
+  - number: 46
+    chapter: 8
+    title: { vi: "Cân bằng tự nhiên", en: "Balance of nature" }
+  - number: 47
+    chapter: 8
+    title: { vi: "Bảo vệ môi trường", en: "Protecting the environment" }

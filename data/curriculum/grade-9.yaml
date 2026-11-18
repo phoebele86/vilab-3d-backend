@@ -1,0 +1,214 @@
+# Source: KHTN 9, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), checked against index sites only.
+grade: 9
+chapters:
+  - number: 1
+    subject: physics
+    title: { vi: "Năng lượng cơ học", en: "Mechanical energy" }
+  - number: 2
+    subject: physics
+    title: { vi: "Ánh sáng", en: "Light" }
+  - number: 3
+    subject: physics
+    title: { vi: "Điện", en: "Electricity" }
+  - number: 4
+    subject: physics
+    title: { vi: "Điện từ", en: "Electromagnetism" }
+  - number: 5
+    subject: physics
+    title: { vi: "Năng lượng với cuộc sống", en: "Energy and life" }
+  - number: 6
+    subject: chemistry
+    title: { vi: "Kim loại. Sự khác nhau cơ bản giữa phi kim và kim loại", en: "Metals. Key differences between non-metals and metals" }
+  - number: 7
+    subject: chemistry
+    title: { vi: "Giới thiệu về chất hữu cơ. Hydrocarbon và nguồn nhiên liệu", en: "Introduction to organic compounds. Hydrocarbons and fuels" }
+  - number: 8
+    subject: chemistry
+    title: { vi: "Ethylic alcohol và acetic acid", en: "Ethanol and acetic acid" }
+  - number: 9
+    subject: chemistry
+    title: { vi: "Lipid. Carbohydrate. Protein. Polymer", en: "Lipids. Carbohydrates. Proteins. Polymers" }
+  - number: 10
+    subject: chemistry
+    title: { vi: "Khai thác tài nguyên từ vỏ Trái Đất", en: "Extracting resources from the Earth's crust" }
+  - number: 11
+    subject: biology
+    title: { vi: "Di truyền học Mendel. Cơ sở phân tử của hiện tượng di truyền", en: "Mendelian genetics. The molecular basis of inheritance" }
+  - number: 12
+    subject: biology
+    title: { vi: "Di truyền nhiễm sắc thể", en: "Chromosomal inheritance" }
+  - number: 13
+    subject: biology
+    title: { vi: "Di truyền học với con người và đời sống", en: "Genetics in human life" }
+  - number: 14
+    subject: biology
+    title: { vi: "Tiến hoá", en: "Evolution" }
+lessons:
+  - number: 1
+    subject: general
+    title: { vi: "Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học", en: "Identifying lab equipment and chemicals. Presenting a scientific topic" }
+  - number: 2
+    chapter: 1
+    title: { vi: "Động năng. Thế năng", en: "Kinetic energy. Potential energy" }
+  - number: 3
+    chapter: 1
+    title: { vi: "Cơ năng", en: "Mechanical energy" }
+  - number: 4
+    chapter: 1
+    title: { vi: "Công và công suất", en: "Work and power" }
+  - number: 5
+    chapter: 2
+    title: { vi: "Khúc xạ ánh sáng", en: "Refraction of light" }
+  - number: 6
+    chapter: 2
+    title: { vi: "Phản xạ toàn phần", en: "Total internal reflection" }
+  - number: 7
+    chapter: 2
+    title: { vi: "Lăng kính", en: "Prisms" }
+  - number: 8
+    chapter: 2
+    title: { vi: "Thấu kính", en: "Lenses" }
+    models:
+      - key: lens
+        kind: simulation
+        name: { vi: "Ảnh tạo bởi thấu kính", en: "Images formed by lenses" }
+        config: {"lensType": "converging", "focalLength": 10, "objectDistance": 25}
+  - number: 9
+    chapter: 2
+    title: { vi: "Thực hành đo tiêu cự của thấu kính hội tụ", en: "Practical: Measuring the focal length of a converging lens" }
+    models:
+      - key: lens
+        kind: simulation
+        name: { vi: "Đo tiêu cự bằng vị trí d = 2f", en: "Measuring focal length with the object at d = 2f" }
+        config: {"lensType": "converging", "focalLength": 10, "objectDistance": 20}
+  - number: 10
+    chapter: 2
+    title: { vi: "Kính lúp. Bài tập thấu kính", en: "The magnifying glass. Lens exercises" }
+    models:
+      - key: lens
+        kind: simulation
+        name: { vi: "Kính lúp: vật đặt trong khoảng tiêu cự", en: "Magnifier: object inside the focal length" }
+        config: {"lensType": "converging", "focalLength": 10, "objectDistance": 6}
+  - number: 11
+    chapter: 3
+    title: { vi: "Điện trở. Định luật Ohm", en: "Resistance. Ohm's law" }
+  - number: 12
+    chapter: 3
+    title: { vi: "Đoạn mạch nối tiếp, song song", en: "Series and parallel circuits" }
+  - number: 13
+    chapter: 3
+    title: { vi: "Năng lượng của dòng điện và công suất điện", en: "Electrical energy and electric power" }
+  - number: 14
+    chapter: 4
+    title: { vi: "Cảm ứng điện từ. Nguyên tắc tạo ra dòng điện xoay chiều", en: "Electromagnetic induction. Generating alternating current" }
+  - number: 15
+    chapter: 4
+    title: { vi: "Tác dụng của dòng điện xoay chiều", en: "Effects of alternating current" }
+  - number: 16
+    chapter: 5
+    title: { vi: "Vòng năng lượng trên Trái Đất. Năng lượng hoá thạch", en: "The Earth's energy cycle. Fossil fuel energy" }
+  - number: 17
+    chapter: 5
+    title: { vi: "Một số dạng năng lượng tái tạo", en: "Forms of renewable energy" }
+  - number: 18
+    chapter: 6
+    title: { vi: "Tính chất chung của kim loại", en: "General properties of metals" }
+  - number: 19
+    chapter: 6
+    title: { vi: "Dãy hoạt động hoá học", en: "The reactivity series" }
+  - number: 20
+    chapter: 6
+    title: { vi: "Tách kim loại và việc sử dụng hợp kim", en: "Extracting metals and using alloys" }
+  - number: 21
+    chapter: 6
+    title: { vi: "Sự khác nhau cơ bản giữa phi kim và kim loại", en: "Key differences between non-metals and metals" }
+  - number: 22
+    chapter: 7
+    title: { vi: "Giới thiệu về hợp chất hữu cơ", en: "Introduction to organic compounds" }
+  - number: 23
+    chapter: 7
+    title: { vi: "Alkane", en: "Alkanes" }
+  - number: 24
+    chapter: 7
+    title: { vi: "Alkene", en: "Alkenes" }
+  - number: 25
+    chapter: 7
+    title: { vi: "Nguồn nhiên liệu", en: "Fuel sources" }
+  - number: 26
+    chapter: 8
+    title: { vi: "Ethylic alcohol", en: "Ethanol" }
+  - number: 27
+    chapter: 8
+    title: { vi: "Acetic acid", en: "Acetic acid" }
+  - number: 28
+    chapter: 9
+    title: { vi: "Lipid", en: "Lipids" }
+  - number: 29
+    chapter: 9
+    title: { vi: "Carbohydrate. Glucose và saccharose", en: "Carbohydrates. Glucose and sucrose" }
+  - number: 30
+    chapter: 9
+    title: { vi: "Tinh bột và cellulose", en: "Starch and cellulose" }
+  - number: 31
+    chapter: 9
+    title: { vi: "Protein", en: "Proteins" }
+  - number: 32
+    chapter: 9
+    title: { vi: "Polymer", en: "Polymers" }
+  - number: 33
+    chapter: 10
+    title: { vi: "Sơ lược về hoá học vỏ Trái Đất và khai thác tài nguyên từ vỏ Trái Đất", en: "Chemistry of the Earth's crust and resource extraction" }
+  - number: 34
+    chapter: 10
+    title: { vi: "Khai thác đá vôi. Công nghiệp silicate", en: "Limestone quarrying. The silicate industry" }
+  - number: 35
+    chapter: 10
+    title: { vi: "Khai thác nhiên liệu hoá thạch. Nguồn carbon. Chu trình carbon và sự ấm lên toàn cầu", en: "Fossil fuel extraction. Carbon sources. The carbon cycle and global warming" }
+  - number: 36
+    chapter: 11
+    title: { vi: "Khái quát về di truyền học", en: "Introduction to genetics" }
+  - number: 37
+    chapter: 11
+    title: { vi: "Các quy luật di truyền của Mendel", en: "Mendel's laws of inheritance" }
+  - number: 38
+    chapter: 11
+    title: { vi: "Nucleic acid và gene", en: "Nucleic acids and genes" }
+  - number: 39
+    chapter: 11
+    title: { vi: "Tái bản DNA và phiên mã tạo RNA", en: "DNA replication and transcription into RNA" }
+  - number: 40
+    chapter: 11
+    title: { vi: "Dịch mã và mối quan hệ từ gene đến tính trạng", en: "Translation: from gene to trait" }
+  - number: 41
+    chapter: 11
+    title: { vi: "Đột biến gene", en: "Gene mutations" }
+  - number: 42
+    chapter: 12
+    title: { vi: "Nhiễm sắc thể và bộ nhiễm sắc thể", en: "Chromosomes and chromosome sets" }
+  - number: 43
+    chapter: 12
+    title: { vi: "Nguyên phân và giảm phân", en: "Mitosis and meiosis" }
+  - number: 44
+    chapter: 12
+    title: { vi: "Nhiễm sắc thể giới tính và cơ chế xác định giới tính", en: "Sex chromosomes and sex determination" }
+  - number: 45
+    chapter: 12
+    title: { vi: "Di truyền liên kết", en: "Genetic linkage" }
+  - number: 46
+    chapter: 12
+    title: { vi: "Đột biến nhiễm sắc thể", en: "Chromosomal mutations" }
+  - number: 47
+    chapter: 13
+    title: { vi: "Di truyền học với con người", en: "Human genetics" }
+  - number: 48
+    chapter: 13
+    title: { vi: "Ứng dụng công nghệ di truyền vào đời sống", en: "Applications of genetic engineering" }
+  - number: 49
+    chapter: 14
+    title: { vi: "Khái niệm tiến hoá và các hình thức chọn lọc", en: "The concept of evolution and types of selection" }
+  - number: 50
+    chapter: 14
+    title: { vi: "Cơ chế tiến hoá", en: "Mechanisms of evolution" }
+  - number: 51
+    chapter: 14
+    title: { vi: "Sự phát sinh và phát triển sự sống trên Trái Đất", en: "The origin and development of life on Earth" }

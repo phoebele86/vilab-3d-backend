@@ -1,0 +1,15 @@
+formula,name_vi,name_en,smiles
+H2,Hydrogen,Hydrogen,[H][H]
+O2,Oxygen,Oxygen,O=O
+N2,Nitrogen,Nitrogen,N#N
+Cl2,Chlorine,Chlorine,ClCl
+H2O,Nước,Water,O
+H2O2,Hydrogen peroxide,Hydrogen peroxide,OO
+CO,Carbon monoxide,Carbon monoxide,[C-]#[O+]
+CO2,Carbon dioxide,Carbon dioxide,O=C=O
+NH3,Ammonia,Ammonia,N
+CH4,Methane,Methane,C
+HCl,Hydrogen chloride,Hydrogen chloride,Cl
+SO2,Sulfur dioxide,Sulfur dioxide,O=S=O
+C2H4,Ethylene,Ethylene,C=C
+C2H5OH,Ethylic alcohol,Ethanol,CCO

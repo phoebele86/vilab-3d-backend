@@ -11,3 +11,4 @@ rdkit
 chempy
 pyjwt
 bcrypt
+pyyaml
